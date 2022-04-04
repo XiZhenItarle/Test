@@ -1,1 +1,2 @@
-User1 modifiedUser2 modified
+User1 modified
+User2 modified
